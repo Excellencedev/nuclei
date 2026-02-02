@@ -53,3 +53,5 @@ vendor
 *.trace
 *.mem
 *.cpu
+config.bat
+node_modules
